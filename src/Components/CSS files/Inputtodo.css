@@ -1,0 +1,26 @@
+.inputTodo{
+    /* border: 2px solid red; */
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textDiv{
+    border: 2px solid gray;
+    box-shadow: 0 0 10px black;
+    height: 70%;
+    width: 80%;
+    border-radius: 10px;
+}
+.textDiv input{
+    height: 95%;
+    width: 75%;
+    border: none;
+    outline: none;
+}
+.textDiv button{
+    border: none;
+    height: 100%;
+    width: 20%;
+}
